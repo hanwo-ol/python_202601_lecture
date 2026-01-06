@@ -8,6 +8,10 @@
 
 교재(제공 됨) : Do it! 일상이 자동화되는 파이썬 생활 프로그래밍 (소스코드: [https://github.com/skytreesea/do-it-python])
 
+교수님의 추천 교재: 점프 투 파이썬 개정 2판 [https://wikidocs.net/book/1]
+
+---
+
 담당 선생님: 솔내고 서혜영 선생님
 
 # 선생님의 부탁 2가지
