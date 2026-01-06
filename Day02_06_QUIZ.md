@@ -20,7 +20,7 @@
 
 ---
 
-- 답안 제출: 댓글로 달기 -> [https://blog.naver.com/d0njusey0?Redirect=Write&categoryNo=68]
+- 답안 제출: 댓글로 달기 -> [https://blog.naver.com/d0njusey0/224136433782]
 
 - 힌?트 찾?기: -> [https://github.com/hanwo-ol/python_202601_lecture/blob/main/Day02_06.md]
 
